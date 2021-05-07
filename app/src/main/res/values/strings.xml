@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">flexCar</string>
+    <string name="melhorOpcao">Qual é a melhor opção de combustível para o seu carro? Álcool ou Gasolina?</string>
+    <string name="precoAlcool">Litro do Álcool - Exemplo: R$ 3.999</string>
+    <string name="precoGasolina">Litro da Gasolina - Exemplo: R$ 5.999</string>
+    <string name="calcularOpcao">Calcular Melhor Opção</string>
+    <string name="melhorCombustivel">Resultado Para Melhor Opção de Combustível</string>
+</resources>
